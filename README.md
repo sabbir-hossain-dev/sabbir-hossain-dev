@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Sabbir Hossain
 
-<!--
-**sabbir-hossain-dev/sabbir-hossain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Wuhan Institute of Technology  
+💻 Passionate about Software Development and Web Development  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Data Structures & Algorithms
+- HTML5
+- CSS3
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Full Stack Web Development
+- Advanced JavaScript
+- React Development
+
+## 🔧 Tools
+- Git
+- GitHub
+- VS Code
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/sabbir-hossain
