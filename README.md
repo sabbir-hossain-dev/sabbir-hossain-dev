@@ -6,9 +6,9 @@
 ## 🚀 Skills
 - Python
 - Data Structures & Algorithms
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
 - React
 
 ## 📚 Currently Learning
@@ -22,4 +22,4 @@
 - VS Code
 
 ## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/sabbir-hossain
+LinkedIn: https://www.linkedin.com/in/sabbir-hossain-developer
