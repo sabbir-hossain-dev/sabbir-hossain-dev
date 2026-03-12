@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirhossaindeveloper)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain-dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=sabbir-hossain-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sabbir-hossain-dev)
 
 </div>
@@ -72,12 +72,12 @@ const sabbir = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sabbir-hossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hossain&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sabbir-hossain-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hossain-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA)
+![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA)
 
 </div>
 
@@ -87,7 +87,7 @@ const sabbir = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir-hossain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF)](https://github.com/sabbir-hossain)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir-hossain-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF)](https://github.com/sabbir-hossain-dev)
 
 </div>
 
