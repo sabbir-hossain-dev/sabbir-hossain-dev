@@ -11,7 +11,8 @@
 
 ### `< Hello, World! />` &nbsp;·&nbsp; I'm **Sabbir Hossain**
 
-<img src="https://readme-typing-svg.demolab.com? Full+Stack+Developer+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?
+ font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines ;Full+Stack+Developer+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
