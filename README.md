@@ -1,40 +1,45 @@
 <div align="center">
 
-```
-░██████╗░█████╗░██████╗░██████╗░██╗██████╗░
-██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗
-╚█████╗ ███████║██████╦╝██████╦╝██║██████╔╝
- ╚═══██╗██╔══██║██╔══██╗██╔══██╗██║██╔══██╗
-██████╔╝██║  ██║██████╦╝██████╦╝██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D9FF&height=120&section=header&animation=fadeIn" width="100%"/>
 
-### `< Hello, World! />` &nbsp;·&nbsp; I'm **Sabbir Hossain**
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sabbir+Hossain" alt="Name" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?
- font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines ;Full+Stack+Developer+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web+Developer+%7C+Open+Source+Enthusiast;Turning+ideas+into+elegant%2C+scalable+solutions+%F0%9F%9A%80" alt="Subtitle" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirhossaindeveloper)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain)
+[![Profile Views](https://komarev.com/ghpvc/?username=sabbir-hossain&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sabbir-hossain)
 
 </div>
 
 ---
 
-## ⚡ About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```yaml
-name:       Sabbir Hossain
-location:   Wuhan Institute of Technology 🇨🇳
-role:       Computer Engineering Student
-focus:      Software & Web Development
-status:     Building cool stuff 🔥
+## 👨‍💻 About Me
+
+```typescript
+const sabbir = {
+  role:       "Software Developer",
+  focus:      ["Web Development", "Full Stack"],
+  languages:  ["Python", "JavaScript"],
+  frontend:   ["React", "HTML5", "CSS3"],
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "Full Stack Development",
+    "React Ecosystem"
+  ],
+  tools:      ["Git", "GitHub", "VS Code"],
+  goal:       "Build products that matter 🎯"
+};
 ```
 
-> *"Code is poetry written in logic."*
+<br clear="right"/>
 
 ---
 
@@ -42,15 +47,18 @@ status:     Building cool stuff 🔥
 
 <div align="center">
 
-**Languages & Frameworks**
+**Core Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Platforms**
+**Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -60,61 +68,56 @@ status:     Building cool stuff 🔥
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| 🎯 Topic | 📊 Progress |
-|----------|-------------|
-| Full Stack Web Development | `████████░░` 80% |
-| Advanced JavaScript | `███████░░░` 70% |
-| React Development | `██████░░░░` 60% |
-| Data Structures & Algorithms | `████████░░` 80% |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabbir-hossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hossain&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-## 🔥 Activity Graph
-
-<div align="center">
-
-[![Sabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir-hossain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)](https://github.com/sabbir-hossain)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [sabbir-hossain-developer](https://www.linkedin.com/in/sabbir-hossain-developer) |
-| 📘 Facebook | Coming Soon |
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sabbir-hossain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hossain&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabbir-hossain&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir-hossain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF)](https://github.com/sabbir-hossain)
+
+</div>
+
+---
+
+## 🌱 Currently Leveling Up
+
+<div align="center">
+
+```
+Full Stack Web Development   ████████░░  80%
+Advanced JavaScript          ███████░░░  70%
+React Development            ██████░░░░  60%
+DSA & Problem Solving        ████████░░  80%
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*I'm always open to interesting conversations, collaborations, and new opportunities.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
+[![Facebook](https://img.shields.io/badge/Follow_on_Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirhossaindeveloper)
 
 </div>
 
@@ -122,13 +125,8 @@ status:     Building cool stuff 🔥
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   Thanks for visiting! Drop a ⭐ if      ║
-║   you found something useful here 🚀    ║
-╚══════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0a3d62,100:0D1117&height=100&section=footer" width="100%"/>
 
-*Made with ❤️ by Sabbir Hossain*
+*⭐ If you find my work useful, consider giving a star — it means a lot!*
 
 </div>
