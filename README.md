@@ -12,8 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirhossaindeveloper)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain)
-[![Profile Views](https://komarev.com/ghpvc/?username=sabbir-hossain&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sabbir-hossain)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain-developer)
+[![Profile Views](https://komarev.com/ghpvc/?username=sabbir-hossain-developer&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sabbir-hossain-developer)
 
 </div>
 
