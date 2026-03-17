@@ -83,6 +83,16 @@ const sabbir = {
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sabbir-hossain-dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -108,6 +118,7 @@ DSA & Problem Solving        ████████░░  80%
 
 ---
 
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -121,12 +132,5 @@ DSA & Problem Solving        ████████░░  80%
 
 </div>
 
+
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0a3d62,100:0D1117&height=100&section=footer" width="100%"/>
-
-*⭐ If you find my work useful, consider giving a star — it means a lot!*
-
-</div>
