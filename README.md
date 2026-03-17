@@ -6,12 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sabbir+Hossain" alt="Name" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web+Developer+%7C+Open+Source+Enthusiast;Turning+ideas+into+elegant%2C+scalable+solutions+%F0%9F%9A%80" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web+Developer+%7C+Problem+Solver;Turning+ideas+into+elegant%2C+scalable+solutions+%F0%9F%9A%80" alt="Subtitle" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirhossaindeveloper)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sabbir-hossain-dev/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SabbirHossainDev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-hossain-dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=sabbir-hossain-dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sabbir-hossain-dev)
 
@@ -27,8 +29,10 @@
 const sabbir = {
   role:       "Software Developer",
   focus:      ["Web Development", "Full Stack"],
-  languages:  ["Python", "JavaScript"],
-  frontend:   ["React", "HTML5", "CSS3"],
+  languages:  ["C++", "Python", "JavaScript"],
+  frontend:   ["React", "Tailwind CSS", "DaisyUI", "HTML5", "CSS3"],
+  backend:    ["Node.js"],
+  expertise:  ["DSA", "Problem Solving"],
   currentlyLearning: [
     "Advanced JavaScript",
     "Full Stack Development",
@@ -47,22 +51,44 @@ const sabbir = {
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Problem Solving & DSA**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 **Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sabbir-hossain-dev?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/sabbir-hossain-dev/)
 
 </div>
 
@@ -78,16 +104,6 @@ const sabbir = {
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sabbir-hossain-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sabbir-hossain-dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -118,7 +134,6 @@ DSA & Problem Solving        ████████░░  80%
 
 ---
 
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -129,8 +144,17 @@ DSA & Problem Solving        ████████░░  80%
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-developer)
 [![Facebook](https://img.shields.io/badge/Follow_on_Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbirhossaindeveloper)
+[![LeetCode](https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sabbir-hossain-dev/)
+[![HackerRank](https://img.shields.io/badge/Follow_on_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SabbirHossainDev)
 
 </div>
 
-
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0a3d62,100:0D1117&height=100&section=footer" width="100%"/>
+
+*⭐ If you find my work useful, consider giving a star — it means a lot!*
+
+</div>
