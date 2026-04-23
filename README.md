@@ -107,7 +107,7 @@ const sabbir = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sabbir-hossain-dev&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=sabbir-hossain-dev&theme=tokyonight&hide_border=true&cache_seconds=1" />
 
 </div>
 
