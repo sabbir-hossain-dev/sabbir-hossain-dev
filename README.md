@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D9FF&height=130&section=header&animation=fadeIn" width="100%"/>
 <h1>
@@ -35,8 +36,7 @@ const sabbir = {
   tools: ["Git", "GitHub", "VS Code", "Docker"],
   goal: "Build products that matter & impact millions 🎯"
 };
-
--
+```
 
 <br clear="right"/>
 
