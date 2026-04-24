@@ -105,10 +105,6 @@ const sabbir = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-hossain-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sabbir-hossain-dev&theme=tokyonight&hide_border=true&cache_seconds=1" />
-
 </div>
 
 ---
